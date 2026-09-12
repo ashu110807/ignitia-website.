@@ -1,0 +1,1 @@
+const b=document.getElementById("menu");const n=document.querySelector(".nav nav");b.onclick=()=>{n.style.display=n.style.display==="flex"?"none":"flex";n.style.position="absolute";n.style.top="78px";n.style.right="7%";n.style.flexDirection="column";n.style.background="#f5f4f1";n.style.padding="20px";n.style.border="1px solid #ddd"};
